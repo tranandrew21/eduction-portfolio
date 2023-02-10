@@ -1,1 +1,0 @@
-/usr/bin/c++  -std=c++11 -Wall -g -rdynamic CMakeFiles/run_app_2.dir/app_2/main_2.cpp.o CMakeFiles/run_app_2.dir/code_2/EnqueueDequeue.cpp.o -o run_app_2 
